@@ -1,0 +1,3 @@
+﻿  source3.cpp
+C:\Users\Gökhan\source\repos\contribute\contribute\source3.cpp(88,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  contribute.vcxproj -> C:\Users\Gökhan\source\repos\contribute\x64\Debug\contribute.exe
